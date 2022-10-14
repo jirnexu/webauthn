@@ -1,6 +1,6 @@
-module github.com/duo-labs/webauthn
+module github.com/vickean/webauthn
 
-go 1.18
+go 1.16
 
 require (
 	github.com/cloudflare/cfssl v1.6.1
