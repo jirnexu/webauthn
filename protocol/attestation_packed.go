@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/vickean/webauthn/metadata"
+	"github.com/jirnexu/webauthn/metadata"
 
-	"github.com/vickean/webauthn/protocol/webauthncose"
+	"github.com/jirnexu/webauthn/protocol/webauthncose"
 )
 
 var packedAttestationKey = "packed"

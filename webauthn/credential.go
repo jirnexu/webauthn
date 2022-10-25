@@ -1,7 +1,7 @@
 package webauthn
 
 import (
-	"github.com/vickean/webauthn/protocol"
+	"github.com/jirnexu/webauthn/protocol"
 )
 
 // Credential contains all needed information about a WebAuthn credential for storage

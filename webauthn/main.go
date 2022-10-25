@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/vickean/webauthn/protocol"
+	"github.com/jirnexu/webauthn/protocol"
 )
 
 var defaultTimeout = 60000

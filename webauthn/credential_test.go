@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/vickean/webauthn/protocol"
+	"github.com/jirnexu/webauthn/protocol"
 )
 
 func TestMakeNewCredential(t *testing.T) {

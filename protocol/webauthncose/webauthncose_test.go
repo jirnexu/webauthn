@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/vickean/webauthn/protocol/webauthncbor"
+	"github.com/jirnexu/webauthn/protocol/webauthncbor"
 
 	"golang.org/x/crypto/ed25519"
 )

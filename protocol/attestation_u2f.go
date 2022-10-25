@@ -6,8 +6,8 @@ import (
 	"crypto/elliptic"
 	"crypto/x509"
 
-	"github.com/vickean/webauthn/protocol/webauthncbor"
-	"github.com/vickean/webauthn/protocol/webauthncose"
+	"github.com/jirnexu/webauthn/protocol/webauthncbor"
+	"github.com/jirnexu/webauthn/protocol/webauthncose"
 )
 
 var u2fAttestationKey = "fido-u2f"
