@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/vickean/webauthn/protocol/webauthncose"
+	"github.com/jirnexu/webauthn/protocol/webauthncose"
 )
 
 var appleAttestationKey = "apple"

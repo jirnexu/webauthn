@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/vickean/webauthn/protocol/webauthncbor"
+	"github.com/jirnexu/webauthn/protocol/webauthncbor"
 )
 
 // From §5.2.1 (https://www.w3.org/TR/webauthn/#authenticatorattestationresponse)

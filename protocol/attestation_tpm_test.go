@@ -4,8 +4,8 @@ import (
 	"crypto/sha256"
 	"testing"
 
+	"github.com/jirnexu/webauthn/protocol/googletpm"
 	"github.com/stretchr/testify/assert"
-	"github.com/vickean/webauthn/protocol/googletpm"
 )
 
 func TestTPMAttestationVerificationSuccess(t *testing.T) {

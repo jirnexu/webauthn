@@ -1,4 +1,4 @@
-module github.com/vickean/webauthn
+module github.com/jirnexu/webauthn
 
 go 1.16
 

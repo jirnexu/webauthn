@@ -5,7 +5,7 @@ import (
 	"encoding/base64"
 	"net/http"
 
-	"github.com/vickean/webauthn/protocol"
+	"github.com/jirnexu/webauthn/protocol"
 )
 
 // BEGIN REGISTRATION
